@@ -1,0 +1,2 @@
+# HandWrittenText
+Handwritten text recognition
